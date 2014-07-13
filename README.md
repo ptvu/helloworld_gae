@@ -1,3 +1,3 @@
 helloworld_gae
 ==============
-Running at https://expanded-net-640.appspot.com
+Running at https://expanded-net-640.appspot.com. Please log in.
